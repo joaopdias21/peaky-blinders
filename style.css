@@ -4,9 +4,11 @@ body {
 }
 
 header {
-    background-color: blue;
+    background-color: #A0A59F;
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0,192);
+    
+
     
 }
 
@@ -27,4 +29,46 @@ nav > a{
     color: white;
     border: 1px green;
     cursor: crosshair;
+}
+
+.menu ul{
+    list-style-type: none ;
+    background-color: #A0A59F;
+
+}
+
+.menu ul li {
+    display: inline-block;
+    position: relative;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+.menu ul li a:hover{
+    background-color: aqua
+}
+
+
+.menu ul ul{
+    display: none;
+    left: 0;
+    position: absolute;
+    
+}
+
+.menu ul li:hover ul{
+    display: block;
+}
+
+.menu ul ul{
+    width: 150px;
+    
+}
+
+.menu ul ul li a{
+    display: block;
 }
