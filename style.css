@@ -1,5 +1,5 @@
 body {
-    background-image:url("imagens/peaky_blinders.jpg");
+    /*background-image:url("imagens/peaky_blinders.jpg");*/
     background-size: 1350px 1350px;
 }
 
@@ -7,6 +7,13 @@ nav > a{
     color: white;
     padding: 10px;
     
+}
+.sobre_titulo{
+    font-family: "Rye", serif;
+}
+
+#sobre{
+    font-family: "Rye", serif;
 }
 
 .button-assistir{
