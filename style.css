@@ -1,8 +1,10 @@
-header {
-    background-image:url("imagens/peaky_blinders_header.jpg") ;
-    height: 500px;
-    background-size: cover;
-    color: #fff;
+header{
+    
+    height: 300px;
+    background-color: #A0A59F;
+}
+.logo{
+    text-align: right;
 }
 nav > a{
     color: white;
