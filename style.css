@@ -17,6 +17,24 @@ nav > a{
     
 }
 
+section{
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+/* .sectionAbsolute__div1{
+    display: inline-block;
+    position: relative;
+    left: 0;
+    width: 500px;
+    height: 500px;
+    background-image: url(./imagens/peaky_blinders_header.jpg);
+    background-size: cover;
+    border: solid 5px darkblue;
+} */
+
+
 #sobre{
     font-family: "Rye", serif;
     text-align: center;
