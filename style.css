@@ -5,35 +5,23 @@
 
 header{
     
-    height: 300px;
+    height: 200px;
     background-color: #A0A59F;
 }
 .logo{
     text-align: right;
 }
-nav > a{
+a{
     color: white;
-    padding: 10px;
-    
+    text-decoration: overline;
+     
 }
 
-section{
-    width: fit-content;
-    margin: auto;
-    margin-bottom: 50px;
-}
 
-/* .sectionAbsolute__div1{
-    display: inline-block;
-    position: relative;
-    left: 0;
+/* .imagem1{
     width: 500px;
     height: 500px;
-    background-image: url(./imagens/peaky_blinders_header.jpg);
-    background-size: cover;
-    border: solid 5px darkblue;
 } */
-
 
 #sobre{
     font-family: "Rye", serif;
@@ -46,7 +34,7 @@ section{
     list-style-type: none ;
     /*background-image:url("imagens/peaky_blinders.jpg") ;*/
     background-repeat: no-repeat;
-    
+    font-family: "Rye", serif;
     background-color: #A0A59F;
     
 
@@ -57,7 +45,7 @@ section{
     position: relative;
     top: 20px;
     left: 20px;
-    padding: 10px;
+    /* padding: 10px; */
    
 }
 
@@ -68,7 +56,7 @@ section{
 }
 
 .menu ul li a:hover{
-    background-color: aqua
+    background-color: black
 }
 
 
@@ -76,21 +64,76 @@ section{
     display: none;
     
     position: absolute;
-    left: 0;
+    left: -20px;
+    
     
 }
 
 .menu ul li:hover ul{
     display: block;
+
 }
 
 .menu ul ul{
     width: 150px;
+    height: 350px;
     
 }
 
 .menu ul ul li a{
     display: block;
+}
+
+.sectionAbsolute{
+    display: inline-block;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 50px;
+    margin: 20px;
+    padding: 20px;
+    
+   
+}
+
+.sectionAbsolute__div1{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    background-image: url(./imagens/thomas.jpg);
+    background-size: cover;
+    position: relative;
+    top: 20px;
+    
+    border: solid 4px #A0A59F;
+}
+
+.sectionAbsolute__div2{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    background-image: url(./imagens/arthur2.jpg);
+    background-size: cover;
+    position: relative;
+    top: 20px;
+    
+    border: solid 4px #A0A59F;
+}
+
+.sectionAbsolute__div3{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    background-image: url(./imagens/jhon.jpg);
+    background-size: cover;
+    position: relative;
+    top: 20px;
+    
+    border: solid 4px #A0A59F;
+}
+
+body{
+    color: white;
+    background-color: black;
 }
 
 
