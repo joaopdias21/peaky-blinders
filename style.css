@@ -31,7 +31,7 @@ a{
 
 .linha-horizontal {
    
-    border:  2px ridge;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+    border:  2px ridge;
   }
 
 
@@ -145,5 +145,16 @@ body{
 
 .trailer{
     text-align: center;
+    
+}
+
+footer{
+    height: 50px;
+    background-color: #A0A59F;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    padding-top: 25px;
+    font-family: "Rye", serif;
 }
 
