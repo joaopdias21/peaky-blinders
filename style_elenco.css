@@ -1,3 +1,51 @@
 .elenco{
     font-family: "Rye", serif;
 }
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.linha-horizontal {
+   
+    border:  2px ridge;
+    margin-bottom: 100px;
+  }
+
+
+.imagemThomas{
+    height: 300px;
+    width: 300px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border-radius: 200px;
+    
+}
+
+.imagemArthur{
+    height: 300px;
+    width: 300px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border-radius: 200px;
+    margin-top: 15px;
+    
+}
+
+p {
+    
+    position: relative;
+    margin-top: 40px;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+
