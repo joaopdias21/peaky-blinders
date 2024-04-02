@@ -29,6 +29,11 @@ a{
     
 }
 
+.linha-horizontal {
+   
+    border:  2px ridge;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+  }
+
 
 .menu ul{
     list-style-type: none ;
