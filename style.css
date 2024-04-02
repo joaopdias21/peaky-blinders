@@ -9,7 +9,12 @@ header{
     background-color: #A0A59F;
 }
 .logo{
-    text-align: right;
+   position: absolute;
+   top: 20px;
+   right: 40px;
+   width: 250px;
+   display: inline-block;
+   border-radius: 30px;
 }
 a{
     color: white;
@@ -42,13 +47,15 @@ a{
     font-family: "Rye", serif;
     background-color: #A0A59F;
     
+    
+    
 
 }
 
 .menu ul li {
     display: inline-block;
     position: relative;
-    top: 20px;
+    top: 80px;
     left: 20px;
     /* padding: 10px; */
    
