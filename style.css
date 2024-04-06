@@ -234,6 +234,7 @@ a{
     border: solid 4px #A0A59F;
 }
 
+
 body{
     color: white;
     background-image: linear-gradient(to right, black 50%,  #0f0f0f,#242323 ,  #242323);
@@ -243,6 +244,7 @@ body{
 
 .trailer{
     text-align: center;
+    margin-top: 50px;
     
 }
 
