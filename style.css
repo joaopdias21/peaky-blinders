@@ -75,6 +75,10 @@ a{
     
 }
 
+.submenu__item{
+    margin-top: 3px;
+}
+
 .submenu:hover{
     background-color: black;
 
