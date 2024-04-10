@@ -310,8 +310,8 @@ a{
 
 body{
     color: white;
-    /* background-image: linear-gradient(to right, black 50%,  #0f0f0f,#242323 ,  #242323); */
-    background-color: black;
+    background-image: linear-gradient(to bottom, black 50%,  #0f0f0f,#242323 ,  #242323);
+    /* background-color: black; */
 }
 
 
