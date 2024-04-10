@@ -287,8 +287,9 @@ a{
     display: inline-block;
     width: 400px;
     height: 400px;
-    background-image: url(./imagens/arthur2.jpg);
+    background-image: url(./imagens/arthur3.jpg);
     background-size: cover;
+    /* background-repeat: no-repeat; */
     position: relative;
     top: 20px;
     

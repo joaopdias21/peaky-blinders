@@ -1,3 +1,17 @@
+h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.linha-horizontal {
+   
+    border:  2px ridge;
+    margin-bottom: 100px;
+  }
+
+
+
 
 /*TEMPORADA 1 STYLE*/
 .main_tum {
@@ -6,11 +20,157 @@
 
 }
 
+.t1e1{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t1e2{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t1e3{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t1e4{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t1e5{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t1e6{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
 /*TEMPORADA 2 STYLE*/
 .main_tdois{
     font-family: "Rye", serif;
 
 }
+
+.t2e1{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t2e2{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t2e3{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t2e4{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t2e5{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+.t2e6{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+    
+}
+
+
 
 /*TEMPORADA 3 STYLE*/
 .main_ttres{
@@ -35,4 +195,17 @@
 .main_tseis{
     font-family: "Rye", serif;
 
+}
+
+p {
+    
+    position: relative;
+    margin-top: 20px;
+    left: 10px;
+}
+
+h2{
+    position: relative;
+    top: 5px;
+    left: 10px;
 }
