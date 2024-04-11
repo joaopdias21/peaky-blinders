@@ -1,3 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    
+    height: 150px;
+    background-color: #A0A59F;
+    list-style-type: none;
+    
+}
+
 h1{
     text-align: center;
     margin-top: 10px;
@@ -20,7 +33,7 @@ h1{
 
 }
 
-.t1e1{
+#temporada_um img{
     height: 100px;
     width: 200px; 
     float: left;
@@ -29,67 +42,6 @@ h1{
     margin: 0px 10px 10px 0;
     border: solid 2px #A0A59F;
     margin-left: 8px;
-    
-}
-
-.t1e2{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
-}
-
-.t1e3{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
-}
-
-.t1e4{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
-}
-
-.t1e5{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
-}
-
-.t1e6{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
 }
 
 /*TEMPORADA 2 STYLE*/
@@ -98,7 +50,7 @@ h1{
 
 }
 
-.t2e1{
+#temporada_dois img{
     height: 100px;
     width: 200px; 
     float: left;
@@ -107,81 +59,44 @@ h1{
     margin: 0px 10px 10px 0;
     border: solid 2px #A0A59F;
     margin-left: 8px;
-    
 }
 
-.t2e2{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
-}
-
-.t2e3{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
-}
-
-.t2e4{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
-}
-
-.t2e5{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
-}
-
-.t2e6{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-    
-}
 
 
 
 /*TEMPORADA 3 STYLE*/
 .main_ttres{
     font-family: "Rye", serif;
+    font-size: 15px;
 
+}
+
+#temporada_tres img{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
 }
 
 /*TEMPORADA 4 STYLE*/
 .main_tquatro{
     font-family: "Rye", serif;
 
+}
+
+#temporada_quatro img{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
 }
 
 /*TEMPORADA 5 STYLE*/
@@ -191,10 +106,32 @@ h1{
 
 }
 
+#temporada_cinco img{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
+}
+
 /*TEMPORADA 6 STYLE*/
 .main_tseis{
     font-family: "Rye", serif;
 
+}
+
+#temporada_seis img{
+    height: 100px;
+    width: 200px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border: solid 2px #A0A59F;
+    margin-left: 8px;
 }
 
 p {
