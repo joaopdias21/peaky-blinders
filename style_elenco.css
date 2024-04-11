@@ -56,6 +56,19 @@ h1{
     
 }
 
+.imagemPolly{
+    height: 300px;
+    width: 300px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border-radius: 200px;
+    border: solid 2px #A0A59F;
+    margin-top: 15px;
+    margin-left: 8px;
+} 
+
 p {
     
     position: relative;
