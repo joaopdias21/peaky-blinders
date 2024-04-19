@@ -258,7 +258,7 @@ a{
 } */
 
 
-.sectionAbsolute{
+/* .sectionAbsolute{
     display: inline-block;
     width: fit-content;
     margin: auto;
@@ -290,7 +290,7 @@ a{
     height: 400px;
     background-image: url(./imagens/arthur3.jpg);
     background-size: cover;
-    /* background-repeat: no-repeat; */
+    /* background-repeat: no-repeat; 
     position: relative;
     top: 20px;
     
@@ -307,8 +307,43 @@ a{
     top: 20px;
     
     border: solid 4px #A0A59F;
+} */
+
+.galeriaFotos{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    margin-top: 40px;
+    
 }
 
+
+.foto-tommy{
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-image: url(./imagens/thomas.jpg);
+    border: solid 4px #A0A59F;
+    
+}
+
+.foto-arthur{
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-image: url(./imagens/arthur3.jpg);
+    border: solid 4px #A0A59F;
+    
+}
+
+.foto-jon{
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-image: url(./imagens/jhon.jpg);
+    border: solid 4px #A0A59F;
+    
+}
 
 body{
     color: white;
