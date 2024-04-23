@@ -377,3 +377,34 @@ footer img {
     height: auto;
   
 }
+
+.logo{
+    grid-area: logo;
+}
+
+.home{
+    grid-area: home;
+}
+
+.elenco{
+    grid-area: elenco;
+}
+
+.temporada{
+    grid-area: temporada;
+}
+
+@media only screen and (min-width: 481px){
+    ul{
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+
+        grid-template-areas:
+        "home elenco temporada"
+        "logo logo logo"
+        
+        ;
+
+
+    }
+}
