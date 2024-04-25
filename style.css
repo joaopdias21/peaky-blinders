@@ -10,9 +10,34 @@ header{
     list-style-type: none;
     
 }
+
+
+
+.container-fluid{
+   height: 150px;
+   background-color: #A0A59F;
+   margin: 0;
+   padding: 0;
+   font-family: "Rye", serif;
+
+}
+
+.nav-item:hover{
+   background-color: black;
+   color: white;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.dropdown-item:hover{
+    background-color: black;
+    color: white;
+}
 .logo{
    position: absolute;
-   top: 10px;
+   top: 20px;
    right: 40px;
    width: 200px;
    display: inline-block;
@@ -317,6 +342,16 @@ a{
     
 }
 
+#carouselExampleAutoplaying{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 200px;
+
+    
+
+}
 
 .foto-tommy{
     width: 400px;
