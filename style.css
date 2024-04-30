@@ -412,24 +412,10 @@ footer img {
   
 }
 
-.logo{
-    grid-area: logo;
-}
-
-.home{
-    grid-area: home;
-}
-
-.elenco{
-    grid-area: elenco;
-}
-
-.temporada{
-    grid-area: temporada;
-}
 
 @media only screen and (max-width: 481px){
-    footer{
-        flex-direction: column;
-    }
+   .logo{
+        position: static;
+        margin-right: 500px;    
+   }
 }

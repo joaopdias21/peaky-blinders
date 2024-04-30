@@ -9,34 +9,87 @@ h1{
 }
 
 .linha-horizontal {
-   
+
     border:  2px ridge;
     margin-bottom: 100px;
   }
 
-  .elenco img{
+.elenco img{
     height: 300px;
-    width: 300px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border-radius: 200px;
+    width: 300px;
+    border-radius: 10px;
     border: solid 2px #A0A59F;
     margin-left: 8px;
+    margin-right: 15px;
+    margin-top: 45px;
+  }
+
+.tommy{
+    display: flex;
+    align-items: center;
   }
 
 
+.arthur{
+    display: flex;
+    align-items: center;
+  }
 
-p {
-    
-    position: relative;
-    margin-top: 40px;
-}
+.jhon{
+    display: flex;
+    align-items: center;
+  }
 
-h2{
+.polly{
+    display: flex;
+    align-items: center;
+  }
+
+.ada{
+    display: flex;
+    align-items: center;
+  }
+
+.finn{
+    display: flex;
+    align-items: center;
+  }
+  
+.grace{
+    display: flex;
+    align-items: center;
+  }
+
+.lizzie{
+    display: flex;
+    align-items: center;
+  }
+
+.linda{
+    display: flex;
+    align-items: center;
+  }
+
+.michael{
+    display: flex;
+    align-items: center;
+  }
+
+
+  span{
+    font-size: 20pt;
+
+  }
+
+
+/* p {
+    display: flex;
+    flex-direction: column;
+} */
+
+/* h2{
     margin-top: 20px;
-}
+} */
 
 footer{
     position: relative;
