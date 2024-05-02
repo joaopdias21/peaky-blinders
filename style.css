@@ -13,7 +13,7 @@ header{
 
 
 
-.container-fluid{
+/* .container-fluid{
    height: 150px;
    background-color: #A0A59F;
    margin: 0;
@@ -34,7 +34,7 @@ header{
 .dropdown-item:hover{
     background-color: black;
     color: white;
-}
+} */
 .logo{
    position: absolute;
    top: 20px;
@@ -79,7 +79,7 @@ a{
     display: inline-block;
     position: relative;
     top: 50px;
-    left: 20px;
+    left: -20px;
     padding: 10px;
     
 }
@@ -95,7 +95,7 @@ a{
     display: inline-block;
     position: absolute;
     width: 150px;
-    height: 140px;
+    height: 190px;
     display: none;
     
 }
@@ -414,8 +414,7 @@ footer img {
 
 
 @media only screen and (max-width: 481px){
-   .logo{
-        position: static;
-        margin-right: 500px;    
+   body{
+      font-size: 500px;   
    }
 }
