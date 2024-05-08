@@ -264,11 +264,11 @@ footer img {
 
 
 @media only screen and (max-width: 481px) {
-   body{
-    margin: 20px ;
-    font-size: 40px;   
+  main{
+    font-size: 500px;   
    }
 }
+
 
 
 
