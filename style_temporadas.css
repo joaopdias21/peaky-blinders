@@ -11,6 +11,10 @@ header{
     
 }
 
+.menu{
+    margin-left: 30px;
+  }
+
 h1{
     text-align: center;
     margin-top: 10px;
@@ -24,33 +28,11 @@ h1{
   }
 
 
-
-
-/*TEMPORADA 1 STYLE*/
-.main_tum {
+.main_temporadas{
     font-family: "Rye", serif;
-    padding-top: -10px;
-
 }
 
-#temporada_um img{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-}
-
-/*TEMPORADA 2 STYLE*/
-.main_tdois{
-    font-family: "Rye", serif;
-
-}
-
-#temporada_dois img{
+#temporadas img{
     height: 100px;
     width: 200px; 
     float: left;
@@ -62,77 +44,6 @@ h1{
 }
 
 
-
-
-/*TEMPORADA 3 STYLE*/
-.main_ttres{
-    font-family: "Rye", serif;
-    font-size: 15px;
-
-}
-
-#temporada_tres img{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-}
-
-/*TEMPORADA 4 STYLE*/
-.main_tquatro{
-    font-family: "Rye", serif;
-
-}
-
-#temporada_quatro img{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-}
-
-/*TEMPORADA 5 STYLE*/
-.main_tcinco{
-    font-family: "Rye", serif;
-    
-
-}
-
-#temporada_cinco img{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-}
-
-/*TEMPORADA 6 STYLE*/
-.main_tseis{
-    font-family: "Rye", serif;
-
-}
-
-#temporada_seis img{
-    height: 100px;
-    width: 200px; 
-    float: left;
-    border: transparent thin solid;
-    padding: 5px;
-    margin: 0px 10px 10px 0;
-    border: solid 2px #A0A59F;
-    margin-left: 8px;
-}
 
 p {
     

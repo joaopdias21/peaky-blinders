@@ -2,6 +2,15 @@
     font-family: "Rye", serif;
 }
 
+main{
+  margin: 17px;
+  font-size: 20px;
+}
+
+.menu{
+  margin-left: 30px;
+}
+
 h1{
     text-align: center;
     margin-top: 10px;
@@ -24,77 +33,34 @@ h1{
     margin-top: 45px;
   }
 
-.tommy{
-    display: flex;
-    align-items: center;
-  }
 
-
-.arthur{
-    display: flex;
-    align-items: center;
-  }
-
-.jhon{
-    display: flex;
-    align-items: center;
-  }
-
-.polly{
-    display: flex;
-    align-items: center;
-  }
-
-.ada{
-    display: flex;
-    align-items: center;
-  }
-
-.finn{
-    display: flex;
-    align-items: center;
-  }
-  
-.grace{
-    display: flex;
-    align-items: center;
-  }
-
-.lizzie{
-    display: flex;
-    align-items: center;
-  }
-
-.linda{
-    display: flex;
-    align-items: center;
-  }
-
-.michael{
-    display: flex;
-    align-items: center;
-  }
-
-
-  span{
-    font-size: 20pt;
-
-  }
-
-
-/* p {
+  .fotos{
     display: flex;
     flex-direction: column;
-} */
+    align-items: center;
+  }
 
-/* h2{
-    margin-top: 20px;
-} */
+
+h2{
+  margin-top: 25px;
+}
+
+p{
+  margin-top: 25px;
+}
 
 footer{
     position: relative;
-    top: 110px;
+    top: 50px;
     text-align: center;
+}
+
+@media only screen and (max-width: 481px) {
+  .fotos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
 }
 
 

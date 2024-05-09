@@ -197,32 +197,6 @@ a{
 
 }
 
-.foto-tommy{
-    width: 400px;
-    height: 400px;
-    background-size: cover;
-    background-image: url(./imagens/thomas.jpg);
-    border: solid 4px #A0A59F;
-    
-}
-
-.foto-arthur{
-    width: 400px;
-    height: 400px;
-    background-size: cover;
-    background-image: url(./imagens/arthur3.jpg);
-    border: solid 4px #A0A59F;
-    
-}
-
-.foto-jon{
-    width: 400px;
-    height: 400px;
-    background-size: cover;
-    background-image: url(./imagens/jhon.jpg);
-    border: solid 4px #A0A59F;
-    
-}
 
 body{
     color: white;
@@ -234,6 +208,7 @@ body{
 main{
     margin: 10px;
     font-size: 20px;
+    font-family: "Rye", serif;
 }
 
 
@@ -259,6 +234,7 @@ footer img {
     padding: 5px;
     width: 30px;
     height: auto;
+    justify-content: center;
   
 }
 
